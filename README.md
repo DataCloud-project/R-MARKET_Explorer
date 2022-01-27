@@ -1,4 +1,9 @@
+<p align="center"><img width=50% src="https://raw.githubusercontent.com/DataCloud-project/toolbox/master/docs/img/datacloud_logo.png"></p>&nbsp;
+
+[![GitHub Issues](https://img.shields.io/github/issues/DataCloud-project/R-MARKET_Explorer.svg)](https://github.com/DataCloud-project/R-MARKET_Explorer/issues)
+
 # R-MARKET Explorer
+
 The R-MARKET Explorer developed based on one of the iExec stack component, which is famously known as [BlockScout](https://github.com/iExecBlockchainComputing/blockscout). It is a web application that allows to explore a chain. Users can see, confirm, and inspect transactions on all Ethereum Virtual Machine (EVM) blockchains using a comprehensive, easy-to-use interface.
 
 <p align="center">
