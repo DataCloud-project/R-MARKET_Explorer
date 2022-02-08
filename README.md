@@ -1,6 +1,7 @@
 <p align="center"><img width=50% src="https://raw.githubusercontent.com/DataCloud-project/toolbox/master/docs/img/datacloud_logo.png"></p>&nbsp;
 
 [![GitHub Issues](https://img.shields.io/github/issues/DataCloud-project/R-MARKET_Explorer.svg)](https://github.com/DataCloud-project/R-MARKET_Explorer/issues)
+[![License](https://img.shields.io/badge/license-GPL3.0-blue)](https://opensource.org/licenses/GPL-3.0)
 
 # R-MARKET Explorer
 
